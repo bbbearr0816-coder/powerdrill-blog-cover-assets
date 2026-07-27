@@ -144,5 +144,78 @@
     "width": 0.62,
     "theme": "black",
     "accent": "none"
+  },
+  "polymarket/crypto.png": {
+    "align": "poster-white",
+    "width": 0.62,
+    "theme": "black",
+    "accent": "none"
+  },
+  "polymarket/ai.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "white",
+    "accent": "#b9b3ff"
+  },
+  "polymarket/dollar.png": {
+    "align": "left",
+    "width": 0.55,
+    "theme": "white",
+    "accent": "#a8e0a0"
+  },
+  "polymarket/uptrend.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "black",
+    "accent": "none"
+  },
+  "polymarket/exchange.png": {
+    "align": "left",
+    "width": 0.55,
+    "theme": "black",
+    "accent": "none"
+  },
+  "glossary/blocks.png": {
+    "align": "top",
+    "width": 0.6,
+    "theme": "black",
+    "accent": "none"
+  },
+  "glossary/lens.png": {
+    "align": "top",
+    "width": 0.72,
+    "theme": "black",
+    "accent": "none",
+    "no_sub": true
+  },
+  "glossary/silk.png": {
+    "align": "left",
+    "width": 0.58,
+    "theme": "black",
+    "accent": "none"
+  },
+  "news/globe.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "white",
+    "accent": "#7fb0ff"
+  },
+  "news/bubbles.png": {
+    "align": "left",
+    "width": 0.62,
+    "theme": "black",
+    "accent": "none"
+  },
+  "data-insights/heatmap.png": {
+    "align": "left",
+    "width": 0.52,
+    "theme": "black",
+    "accent": "none"
+  },
+  "data-insights/mosaic.png": {
+    "align": "left",
+    "width": 0.46,
+    "theme": "black",
+    "accent": "none"
   }
 }
