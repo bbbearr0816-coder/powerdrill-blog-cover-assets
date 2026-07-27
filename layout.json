@@ -1,0 +1,148 @@
+{
+  "_说明": "每张底图的排版参数。align: center/top; width: 标题区宽度比例; theme: auto/white/black",
+  "tips/default.png": {
+    "align": "left",
+    "width": 0.36,
+    "theme": "auto",
+    "accent": "#a0bfed"
+  },
+  "tips/chart-review.png": {
+    "align": "top",
+    "width": 0.56,
+    "theme": "auto",
+    "accent": "#bfc4cc"
+  },
+  "tips/petals.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "auto",
+    "accent": "#c9a8ff"
+  },
+  "use-case/default.png": {
+    "align": "top",
+    "width": 0.64,
+    "theme": "auto",
+    "accent": "none"
+  },
+  "use-case/checklist.png": {
+    "align": "center",
+    "width": 0.46,
+    "theme": "auto",
+    "accent": "none"
+  },
+  "use-case/cards.png": {
+    "align": "center",
+    "width": 0.44,
+    "theme": "auto",
+    "accent": "none"
+  },
+  "use-case/office.png": {
+    "align": "0.17",
+    "width": 0.6,
+    "theme": "auto",
+    "accent": "none"
+  },
+  "data-insights/default.png": {
+    "align": "center",
+    "width": 0.46,
+    "theme": "auto",
+    "accent": "none"
+  },
+  "data-insights/dashboard-dark.png": {
+    "align": "center",
+    "width": 0.46,
+    "theme": "auto",
+    "accent": "#9fd8c0"
+  },
+  "data-insights/trend-wave.png": {
+    "align": "top",
+    "width": 0.6,
+    "theme": "auto",
+    "accent": "none"
+  },
+  "polymarket/default.png": {
+    "align": "center",
+    "width": 0.46,
+    "theme": "auto",
+    "accent": "#c8ccd8"
+  },
+  "polymarket/garden.png": {
+    "align": "center",
+    "width": 0.46,
+    "theme": "auto",
+    "accent": "#b7cda8"
+  },
+  "polymarket/orbs.png": {
+    "align": "center",
+    "width": 0.46,
+    "theme": "auto",
+    "accent": "#7d8b97"
+  },
+  "glossary/default.png": {
+    "align": "center",
+    "width": 0.42,
+    "theme": "white",
+    "accent": "none"
+  },
+  "glossary/cards.png": {
+    "align": "center",
+    "width": 0.42,
+    "theme": "black",
+    "accent": "none"
+  },
+  "news/default.png": {
+    "align": "center",
+    "width": 0.46,
+    "theme": "auto",
+    "accent": "#d9a8ff"
+  },
+  "research-digest/default.png": {
+    "align": "center",
+    "width": 0.46,
+    "theme": "auto",
+    "accent": "#744cbe"
+  },
+  "tips/prism.png": {
+    "align": "center",
+    "width": 0.56,
+    "theme": "white",
+    "accent": "#b9b3ff"
+  },
+  "data-insights/glass.png": {
+    "align": "left",
+    "width": 0.34,
+    "theme": "black",
+    "accent": "none"
+  },
+  "tips/cubes.png": {
+    "align": "top",
+    "width": 0.6,
+    "theme": "white",
+    "accent": "#7fb0ff",
+    "no_sub": true
+  },
+  "data-insights/bars.png": {
+    "align": "left",
+    "width": 0.57,
+    "theme": "black",
+    "accent": "none"
+  },
+  "news/folders.png": {
+    "align": "left",
+    "width": 0.38,
+    "theme": "white",
+    "accent": "#908fe6"
+  },
+  "use-case/funnel.png": {
+    "align": "left",
+    "width": 0.62,
+    "theme": "black",
+    "accent": "none"
+  },
+  "use-case/growth.png": {
+    "align": "top",
+    "width": 0.62,
+    "theme": "black",
+    "accent": "none"
+  }
+}
