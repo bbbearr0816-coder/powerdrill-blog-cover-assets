@@ -10,13 +10,14 @@
     "align": "top",
     "width": 0.56,
     "theme": "auto",
-    "accent": "#bfc4cc"
-  },
-  "tips/petals.png": {
-    "align": "left",
-    "width": 0.5,
-    "theme": "auto",
-    "accent": "#c9a8ff"
+    "accent": "#bfc4cc",
+    "tags": [
+      "chart",
+      "review",
+      "dashboard",
+      "report",
+      "analyze"
+    ]
   },
   "use-case/default.png": {
     "align": "top",
@@ -28,19 +29,42 @@
     "align": "center",
     "width": 0.46,
     "theme": "auto",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "checklist",
+      "steps",
+      "process",
+      "how to",
+      "guide",
+      "workflow"
+    ]
   },
   "use-case/cards.png": {
     "align": "center",
     "width": 0.44,
     "theme": "auto",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "card",
+      "kanban",
+      "board",
+      "organize",
+      "plan"
+    ]
   },
   "use-case/office.png": {
     "align": "0.17",
     "width": 0.6,
     "theme": "auto",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "office",
+      "team",
+      "business",
+      "workplace",
+      "company",
+      "enterprise"
+    ]
   },
   "data-insights/default.png": {
     "align": "center",
@@ -52,25 +76,20 @@
     "align": "center",
     "width": 0.46,
     "theme": "auto",
-    "accent": "#9fd8c0"
-  },
-  "data-insights/trend-wave.png": {
-    "align": "top",
-    "width": 0.6,
-    "theme": "auto",
-    "accent": "none"
+    "accent": "#9fd8c0",
+    "tags": [
+      "dashboard",
+      "kpi",
+      "metrics",
+      "monitor",
+      "analytics"
+    ]
   },
   "polymarket/default.png": {
     "align": "center",
     "width": 0.46,
     "theme": "auto",
     "accent": "#c8ccd8"
-  },
-  "polymarket/garden.png": {
-    "align": "center",
-    "width": 0.46,
-    "theme": "auto",
-    "accent": "#b7cda8"
   },
   "polymarket/orbs.png": {
     "align": "center",
@@ -88,7 +107,13 @@
     "align": "center",
     "width": 0.42,
     "theme": "black",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "term",
+      "flashcard",
+      "concept",
+      "vocabulary"
+    ]
   },
   "news/default.png": {
     "align": "center",
@@ -108,114 +133,642 @@
     "theme": "white",
     "accent": "#b9b3ff"
   },
-  "data-insights/glass.png": {
-    "align": "left",
-    "width": 0.34,
-    "theme": "black",
-    "accent": "none"
-  },
-  "tips/cubes.png": {
-    "align": "top",
-    "width": 0.6,
-    "theme": "white",
-    "accent": "#7fb0ff",
-    "no_sub": true
-  },
-  "data-insights/bars.png": {
-    "align": "left",
-    "width": 0.57,
-    "theme": "black",
-    "accent": "none"
-  },
   "news/folders.png": {
     "align": "left",
     "width": 0.38,
     "theme": "white",
-    "accent": "#908fe6"
-  },
-  "use-case/funnel.png": {
-    "align": "left",
-    "width": 0.62,
-    "theme": "black",
-    "accent": "none"
+    "accent": "#908fe6",
+    "tags": [
+      "folder",
+      "organize",
+      "workspace",
+      "file management"
+    ]
   },
   "use-case/growth.png": {
     "align": "top",
     "width": 0.62,
     "theme": "black",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "growth",
+      "increase",
+      "scale",
+      "trend",
+      "arrow",
+      "climb"
+    ]
   },
   "polymarket/crypto.png": {
     "align": "poster-white",
     "width": 0.62,
     "theme": "black",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "bitcoin",
+      "btc",
+      "ethereum",
+      "eth",
+      "crypto",
+      "cryptocurrency",
+      "stablecoin",
+      "defi",
+      "token",
+      "coin",
+      "blockchain",
+      "web3"
+    ]
   },
   "polymarket/ai.png": {
     "align": "left",
     "width": 0.5,
     "theme": "white",
-    "accent": "#b9b3ff"
+    "accent": "#b9b3ff",
+    "tags": [
+      "ai",
+      "model",
+      "llm",
+      "gpt",
+      "claude",
+      "gemini",
+      "openai",
+      "anthropic",
+      "artificial intelligence",
+      "chatbot",
+      "agent",
+      "agi"
+    ]
   },
   "polymarket/dollar.png": {
     "align": "left",
     "width": 0.55,
     "theme": "white",
-    "accent": "#a8e0a0"
+    "accent": "#a8e0a0",
+    "tags": [
+      "dollar",
+      "usd",
+      "price target",
+      "gold",
+      "oil",
+      "commodity",
+      "money",
+      "inflation",
+      "forecast"
+    ]
   },
   "polymarket/uptrend.png": {
     "align": "left",
     "width": 0.5,
     "theme": "black",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "stock",
+      "index",
+      "s&p",
+      "nasdaq",
+      "dow",
+      "rally",
+      "uptrend",
+      "bull",
+      "record high",
+      "surge",
+      "break"
+    ]
   },
   "polymarket/exchange.png": {
     "align": "left",
     "width": 0.55,
     "theme": "black",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "exchange",
+      "swap",
+      "trade",
+      "trading",
+      "currency",
+      "forex",
+      "transaction",
+      "close price"
+    ]
   },
   "glossary/blocks.png": {
     "align": "top",
     "width": 0.6,
     "theme": "black",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "building block",
+      "component",
+      "structure",
+      "data type",
+      "element",
+      "foundation"
+    ]
   },
   "glossary/lens.png": {
     "align": "top",
     "width": 0.72,
     "theme": "black",
     "accent": "none",
-    "no_sub": true
-  },
-  "glossary/silk.png": {
-    "align": "left",
-    "width": 0.58,
-    "theme": "black",
-    "accent": "none"
+    "no_sub": true,
+    "tags": [
+      "visualization",
+      "clarity",
+      "definition",
+      "focus",
+      "analysis",
+      "insight"
+    ]
   },
   "news/globe.png": {
     "align": "left",
     "width": 0.5,
     "theme": "white",
-    "accent": "#7fb0ff"
+    "accent": "#7fb0ff",
+    "tags": [
+      "global",
+      "world",
+      "international",
+      "enterprise",
+      "worldwide",
+      "expansion",
+      "region"
+    ]
   },
   "news/bubbles.png": {
     "align": "left",
     "width": 0.62,
     "theme": "black",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "bloom",
+      "canvas",
+      "creative",
+      "reimagine",
+      "colorful",
+      "celebrate"
+    ]
   },
   "data-insights/heatmap.png": {
     "align": "left",
     "width": 0.52,
     "theme": "black",
-    "accent": "none"
+    "accent": "none",
+    "tags": [
+      "heatmap",
+      "correlation",
+      "matrix",
+      "density",
+      "churn",
+      "cohort",
+      "pattern"
+    ]
   },
-  "data-insights/mosaic.png": {
+  "glossary/knot.png": {
     "align": "left",
-    "width": 0.46,
+    "width": 0.55,
+    "theme": "white",
+    "accent": "#8fc2ff",
+    "tags": [
+      "api",
+      "algorithm",
+      "network",
+      "system",
+      "integration",
+      "protocol",
+      "architecture",
+      "complexity"
+    ]
+  },
+  "data-insights/report.png": {
+    "align": "left",
+    "width": 0.55,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "report",
+      "business report",
+      "monthly",
+      "weekly",
+      "automation",
+      "summary"
+    ]
+  },
+  "data-insights/prism-bars.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "chart",
+      "chart type",
+      "visualization",
+      "bar",
+      "colorful",
+      "viz"
+    ]
+  },
+  "news/browser.png": {
+    "align": "left",
+    "width": 0.58,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "release",
+      "version",
+      "update",
+      "feature",
+      "product",
+      "ui",
+      "app",
+      "launch",
+      "2.0"
+    ]
+  },
+  "news/award.png": {
+    "align": "left",
+    "width": 0.52,
+    "theme": "white",
+    "accent": "#c9a8ff",
+    "tags": [
+      "award",
+      "winner",
+      "prize",
+      "excellence",
+      "recognition",
+      "milestone",
+      "named"
+    ]
+  },
+  "tips/panels.png": {
+    "align": "poster-top",
+    "width": 0.72,
+    "theme": "auto",
+    "accent": "#aab4ff",
+    "tags": [
+      "dashboard",
+      "screen",
+      "display",
+      "monitor",
+      "design"
+    ]
+  },
+  "tips/tasks.png": {
+    "align": "left",
+    "width": 0.48,
+    "theme": "white",
+    "accent": "#c9a8ff",
+    "tags": [
+      "checklist",
+      "task",
+      "process",
+      "audit",
+      "qa",
+      "launch",
+      "review"
+    ]
+  },
+  "use-case/boost.png": {
+    "align": "left",
+    "width": 0.52,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "boost",
+      "conversion",
+      "click",
+      "cta",
+      "optimize",
+      "improve",
+      "increase",
+      "ab test"
+    ]
+  },
+  "data-insights/saas-revenue.png": {
+    "align": "left",
+    "width": 0.55,
+    "theme": "white",
+    "accent": "#b9a8ff",
+    "tags": [
+      "revenue",
+      "saas",
+      "mrr",
+      "arr",
+      "billing",
+      "pricing",
+      "ltv",
+      "churn",
+      "subscription",
+      "sales"
+    ]
+  },
+  "use-case/approval.png": {
+    "align": "left",
+    "width": 0.55,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "checklist",
+      "approval",
+      "review",
+      "workflow",
+      "process",
+      "task"
+    ]
+  },
+  "tips/gradient.png": {
+    "align": "left",
+    "width": 0.5,
     "theme": "black",
     "accent": "none"
+  },
+  "news/bloom-stand.png": {
+    "align": "center@0.10",
+    "width": 0.92,
+    "theme": "white",
+    "accent": "none",
+    "no_sub": true,
+    "mask_hold": 0.3,
+    "mask_end": 0.46,
+    "tags": [
+      "bloom",
+      "launch",
+      "brand",
+      "announcement",
+      "product"
+    ]
+  },
+  "tips/triangles.png": {
+    "align": "poster-white",
+    "width": 0.82,
+    "theme": "black",
+    "accent": "none"
+  },
+  "tips/sheets.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "white",
+    "accent": "#d0b3ff",
+    "tags": [
+      "layer",
+      "workflow",
+      "pipeline",
+      "step",
+      "deep dive",
+      "method",
+      "framework"
+    ]
+  },
+  "data-insights/delta.png": {
+    "align": "left",
+    "width": 0.55,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "trend",
+      "change",
+      "delta",
+      "growth",
+      "direction",
+      "momentum"
+    ]
+  },
+  "use-case/chat.png": {
+    "align": "poster-top",
+    "width": 0.6,
+    "theme": "white",
+    "accent": "#d8b3f0",
+    "mask_hold": 0.55,
+    "mask_end": 0.95,
+    "tags": [
+      "chat",
+      "conversation",
+      "ai chat",
+      "copilot",
+      "assistant",
+      "q&a"
+    ]
+  },
+  "news/bloom-dark.png": {
+    "align": "poster-top",
+    "width": 0.6,
+    "theme": "auto",
+    "accent": "none",
+    "tags": [
+      "bloom",
+      "launch",
+      "brand",
+      "announcement",
+      "product",
+      "release"
+    ]
+  },
+  "tips/laptop.png": {
+    "align": "poster-white",
+    "width": 0.84,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "laptop",
+      "computer",
+      "software",
+      "app",
+      "tool",
+      "review"
+    ]
+  },
+  "glossary/tile.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "term",
+      "definition",
+      "element"
+    ]
+  },
+  "data-insights/pixel-green.png": {
+    "align": "0.08",
+    "width": 0.5,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "segment",
+      "distribution",
+      "breakdown",
+      "composition",
+      "pixel"
+    ]
+  },
+  "polymarket/trophy-gold.png": {
+    "align": "left",
+    "width": 0.55,
+    "theme": "white",
+    "accent": "#e6c47a",
+    "tags": [
+      "best",
+      "winner",
+      "champion",
+      "top",
+      "race",
+      "competition",
+      "leaderboard"
+    ]
+  },
+  "glossary/brain-blue.png": {
+    "align": "left",
+    "width": 0.55,
+    "theme": "auto",
+    "accent": "none",
+    "tags": [
+      "machine learning",
+      "neural network",
+      "deep learning",
+      "ai",
+      "brain",
+      "intelligence",
+      "llm",
+      "training",
+      "model"
+    ]
+  },
+  "use-case/folder.png": {
+    "align": "left",
+    "width": 0.55,
+    "theme": "white",
+    "accent": "#9fd8c0",
+    "tags": [
+      "file",
+      "document",
+      "folder",
+      "organize",
+      "knowledge base",
+      "storage",
+      "archive"
+    ]
+  },
+  "glossary/vision.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "white",
+    "accent": "#7fb0ff",
+    "tags": [
+      "computer vision",
+      "face recognition",
+      "ar",
+      "image recognition",
+      "detection",
+      "biometric"
+    ]
+  },
+  "data-insights/columns.png": {
+    "align": "poster-white",
+    "width": 0.82,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "bar chart",
+      "comparison",
+      "ranking",
+      "distribution",
+      "columns"
+    ]
+  },
+  "polymarket/garden.png": {
+    "align": "center",
+    "width": 0.46,
+    "theme": "auto",
+    "accent": "#b7cda8",
+    "tags": [
+      "prediction",
+      "odds",
+      "forecast",
+      "crystal ball",
+      "market",
+      "probability"
+    ]
+  },
+  "data-insights/formulas.png": {
+    "align": "poster-white",
+    "width": 0.78,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "statistics",
+      "chart",
+      "scatter",
+      "regression",
+      "analysis",
+      "math"
+    ]
+  },
+  "glossary/helix.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "white",
+    "accent": "#c9a8ff",
+    "tags": [
+      "science",
+      "structure",
+      "molecule",
+      "dna",
+      "concept",
+      "biology"
+    ]
+  },
+  "tips/silk.png": {
+    "align": "left",
+    "width": 0.58,
+    "theme": "black",
+    "accent": "none"
+  },
+  "tips/glass.png": {
+    "align": "left",
+    "width": 0.34,
+    "theme": "black",
+    "accent": "none"
+  },
+  "use-case/spiral.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "black",
+    "accent": "none",
+    "tags": [
+      "workflow",
+      "integration",
+      "process",
+      "connect",
+      "system",
+      "pipeline"
+    ]
+  },
+  "tips/cube.png": {
+    "align": "left",
+    "width": 0.5,
+    "theme": "white",
+    "accent": "none",
+    "tags": [
+      "structure",
+      "block",
+      "cube",
+      "foundation",
+      "data type",
+      "schema"
+    ]
+  },
+  "glossary/prism.png": {
+    "align": "left",
+    "width": 0.44,
+    "theme": "white",
+    "accent": "none",
+    "tags": [
+      "prism",
+      "spectrum",
+      "clarity",
+      "refraction",
+      "insight",
+      "definition"
+    ]
   }
 }
